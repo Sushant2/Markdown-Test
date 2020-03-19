@@ -83,10 +83,10 @@ npm start
 | Name | Email |
 | --- | --- |
 | Sushant Gupta | sushant@gmail.com |
-| dDnt Know | dontknow@gmail.com |
+| Dont Know | dontknow@gmail.com |
 
 <!-- Task Lists -->
 
 * [x] Task 1
 * [x] Task 2
-* [] Task 3
+* [ ] Task 3
