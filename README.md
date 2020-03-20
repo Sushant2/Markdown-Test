@@ -16,7 +16,7 @@ _This text_ is italic
 
 **This text** is strong
 
-__This text__ is italic
+__This text__ is strong
 
 <!-- Strikethrough -->
 
